@@ -1,0 +1,18 @@
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+
+ .id a:hover {
+  background-color:green;
+  color: blue;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+a:active {
+  color: red;
+}
